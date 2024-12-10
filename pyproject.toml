@@ -3,7 +3,7 @@ name = "testapp"
 authors = [
     { name = "avishna", email = "avishna@gmail.com"}
 ]
-description = "test purpose"
+description = "test application for custom development"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

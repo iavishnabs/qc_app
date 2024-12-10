@@ -1,6 +1,6 @@
-## test custom app
+## test app
 
-test purpose
+test application for custom development
 
 #### License
 

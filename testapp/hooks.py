@@ -1,7 +1,7 @@
 app_name = "testapp"
-app_title = "test custom app"
+app_title = "test app"
 app_publisher = "avishna"
-app_description = "test purpose"
+app_description = "test application for custom development"
 app_email = "avishna@gmail.com"
 app_license = "mit"
 
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "testapp",
 # 		"logo": "/assets/testapp/logo.png",
-# 		"title": "test custom app",
+# 		"title": "test app",
 # 		"route": "/testapp",
 # 		"has_permission": "testapp.api.permission.has_app_permission"
 # 	}
